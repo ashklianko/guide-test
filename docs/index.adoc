@@ -18,7 +18,7 @@ Dan Allen <thedoc@asciidoctor.org>
 // the previous three attributes customize the generated output
 
 [role='lead']
-This is a demonstration of {library}. And this is the preamble of this document.
+This is a real demonstration of {library}. And this is the preamble of this document.
 
 [[purpose]]
 .Purpose
