@@ -113,15 +113,6 @@ after this brief interruption.
 
 == We're back!
 
-Want to see a image:images/tiger.png[Tiger]? (TODO)
-
-Do you feel more safe with the tiger in a box?
-
-.Tiger in a box
-image::images/tiger.png[]
-
-include::include.asciidoc[]
-
 .Asciidoctor usage example, should contain 3 lines (TODO)
 [source, ruby]
 ----
